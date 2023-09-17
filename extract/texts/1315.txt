@@ -1,0 +1,7 @@
+To attack, click the left mouse button.  The character will 
+--- RECORDSEPARATOR ---
+always attack facing the cursor's current location.  To attack 
+--- RECORDSEPARATOR ---
+in a specific direction, move the cursor so that the character 
+--- RECORDSEPARATOR ---
+faces that direction before clicking.

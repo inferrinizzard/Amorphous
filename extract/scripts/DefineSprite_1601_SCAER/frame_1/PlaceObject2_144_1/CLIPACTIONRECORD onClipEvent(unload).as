@@ -1,0 +1,3 @@
+onClipEvent(unload){
+   myGear.stop();
+}

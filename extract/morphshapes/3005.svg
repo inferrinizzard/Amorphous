@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="49.7px" width="48.95px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 19.4, 36.15)">
+    <path d="M-12.9 -1.75 L-12.9 -0.65 -12.9 0.5 -12.9 1.25 -12.4 1.85 -12.1 2.25 Q-10.0 4.45 -7.95 6.65 -4.35 9.85 0.1 12.0 1.4 12.6 2.7 13.15 L3.9 13.55 4.8 13.55 6.3 13.5 Q7.05 13.4 7.75 13.35 L8.85 13.2 Q10.05 12.3 11.25 11.4 L13.05 9.95 13.05 9.95 13.35 9.6 Q13.35 6.3 13.35 3.0 L13.35 2.5 13.35 1.9 Q13.35 -0.05 13.35 -2.0 L13.25 -2.2 11.75 -4.9 Q11.2 -6.2 11.35 -7.65 10.25 -9.5 8.85 -10.8 8.6 -11.05 8.35 -11.25 6.15 -13.0 3.25 -13.4 1.1 -13.3 -1.0 -13.25 L-2.5 -12.85 -4.0 -12.65 -4.1 -12.55 Q-4.35 -12.35 -4.6 -12.15 L-5.75 -11.25 -6.7 -10.35 -7.95 -9.0 Q-10.4 -6.25 -12.1 -2.85 L-12.9 -1.75" fill="url(#gradient0)" fill-rule="evenodd" stroke="none">
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-12.9 -1.75 L-12.9 -0.65 -12.9 0.5 -12.9 1.25 -12.4 1.85 -12.1 2.25 Q-10.0 4.45 -7.95 6.65 -4.35 9.85 0.1 12.0 1.4 12.6 2.7 13.15 L3.9 13.55 4.8 13.55 6.3 13.5 Q7.05 13.4 7.75 13.35 L8.85 13.2 Q10.05 12.3 11.25 11.4 L13.05 9.95 13.05 9.95 13.35 9.6 Q13.35 6.3 13.35 3.0 L13.35 2.5 13.35 1.9 Q13.35 -0.05 13.35 -2.0 L13.25 -2.2 11.75 -4.9 Q11.2 -6.2 11.35 -7.65 10.25 -9.5 8.85 -10.8 8.6 -11.05 8.35 -11.25 6.15 -13.0 3.25 -13.4 1.1 -13.3 -1.0 -13.25 L-2.5 -12.85 -4.0 -12.65 -4.1 -12.55 Q-4.35 -12.35 -4.6 -12.15 L-5.75 -11.25 -6.7 -10.35 -7.95 -9.0 Q-10.4 -6.25 -12.1 -2.85 L-12.9 -1.75;M-19.2 -4.0 L-18.9 -1.9 -18.25 0.05 -17.65 1.25 -16.6 2.8 -16.25 3.5 Q-13.35 8.85 -7.75 9.75 1.1 11.2 10.2 10.7 12.85 10.55 15.3 9.65 L17.25 8.7 18.45 8.0 20.75 6.55 Q21.85 5.85 23.25 5.75 L24.25 3.8 Q25.5 1.55 27.15 -0.45 L29.25 -3.65 29.25 -3.75 29.4 -4.85 Q30.1 -11.3 27.7 -17.0 L27.4 -17.7 26.8 -18.8 Q25.0 -21.85 23.45 -25.0 L23.25 -25.4 19.2 -29.25 Q16.95 -30.85 14.75 -32.4 11.7 -34.25 8.25 -35.55 7.6 -35.8 7.0 -36.15 1.8 -36.15 -3.4 -36.15 -7.45 -35.3 -10.45 -33.05 L-12.7 -31.05 -14.4 -28.85 -14.6 -28.55 Q-14.95 -28.0 -15.45 -27.55 L-17.4 -25.8 -18.2 -23.55 -19.15 -20.3 Q-19.6 -13.3 -19.3 -6.2 L-19.2 -4.0"/>
+    </path>
+    <path d="M-12.9 -1.75 L-12.1 -2.85 Q-10.4 -6.25 -7.95 -9.0 L-6.7 -10.35 -5.75 -11.25 -4.6 -12.15 Q-4.35 -12.35 -4.1 -12.55 L-4.0 -12.65 -2.5 -12.85 -1.0 -13.25 Q1.1 -13.3 3.25 -13.4 6.15 -13.0 8.35 -11.25 8.6 -11.05 8.85 -10.8 10.25 -9.5 11.35 -7.65 11.2 -6.2 11.75 -4.9 L13.25 -2.2 13.35 -2.0 Q13.35 -0.05 13.35 1.9 L13.35 2.5 13.35 3.0 Q13.35 6.3 13.35 9.6 L13.05 9.95 13.05 9.95 11.25 11.4 Q10.05 12.3 8.85 13.2 L7.75 13.35 Q7.05 13.4 6.3 13.5 L4.8 13.55 3.9 13.55 2.7 13.15 Q1.4 12.6 0.1 12.0 -4.35 9.85 -7.95 6.65 -10.0 4.45 -12.1 2.25 L-12.4 1.85 -12.9 1.25 -12.9 0.5 -12.9 -0.65 -12.9 -1.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-12.9 -1.75 L-12.1 -2.85 Q-10.4 -6.25 -7.95 -9.0 L-6.7 -10.35 -5.75 -11.25 -4.6 -12.15 Q-4.35 -12.35 -4.1 -12.55 L-4.0 -12.65 -2.5 -12.85 -1.0 -13.25 Q1.1 -13.3 3.25 -13.4 6.15 -13.0 8.35 -11.25 8.6 -11.05 8.85 -10.8 10.25 -9.5 11.35 -7.65 11.2 -6.2 11.75 -4.9 L13.25 -2.2 13.35 -2.0 Q13.35 -0.05 13.35 1.9 L13.35 2.5 13.35 3.0 Q13.35 6.3 13.35 9.6 L13.05 9.95 13.05 9.95 11.25 11.4 Q10.05 12.3 8.85 13.2 L7.75 13.35 Q7.05 13.4 6.3 13.5 L4.8 13.55 3.9 13.55 2.7 13.15 Q1.4 12.6 0.1 12.0 -4.35 9.85 -7.95 6.65 -10.0 4.45 -12.1 2.25 L-12.4 1.85 -12.9 1.25 -12.9 0.5 -12.9 -0.65 -12.9 -1.75;M-19.2 -4.0 L-19.3 -6.2 Q-19.6 -13.3 -19.15 -20.3 L-18.2 -23.55 -17.4 -25.8 -15.45 -27.55 Q-14.95 -28.0 -14.6 -28.55 L-14.4 -28.85 -12.7 -31.05 -10.45 -33.05 Q-7.45 -35.3 -3.4 -36.15 1.8 -36.15 7.0 -36.15 7.6 -35.8 8.25 -35.55 11.7 -34.25 14.75 -32.4 16.95 -30.85 19.2 -29.25 L23.25 -25.4 23.45 -25.0 Q25.0 -21.85 26.8 -18.8 L27.4 -17.7 27.7 -17.0 Q30.1 -11.3 29.4 -4.85 L29.25 -3.75 29.25 -3.65 27.15 -0.45 Q25.5 1.55 24.25 3.8 L23.25 5.75 Q21.85 5.85 20.75 6.55 L18.45 8.0 17.25 8.7 15.3 9.65 Q12.85 10.55 10.2 10.7 1.1 11.2 -7.75 9.75 -13.35 8.85 -16.25 3.5 L-16.6 2.8 -17.65 1.25 -18.25 0.05 -18.9 -1.9 -19.2 -4.0"/>
+    </path>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0403, 0.0073, -0.0084, 0.0459, 8.15, -14.15)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <animateTransform additive="replace" attributeName="gradientTransform" dur="2s" from="1" repeatCount="indefinite" to="1" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="8.15 -14.15" repeatCount="indefinite" to="8.15 -14.15" type="translate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="10.3087" repeatCount="indefinite" to="10.3087" type="rotate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0409 0.0467" repeatCount="indefinite" to="0.0409 0.0467" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="-0.0147" repeatCount="indefinite" to="-0.0147" type="skewX"/>
+      <stop offset="0.0" stop-color="#a7a7a7">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#a7a7a7;#a7a7a8"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+      <stop offset="0.5764705882352941" stop-color="#777777">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="0.5764705882352941;0.5764705882352941"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#777777;#777778"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+      <stop offset="1.0" stop-color="#000000">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+    </radialGradient>
+  </defs>
+</svg>

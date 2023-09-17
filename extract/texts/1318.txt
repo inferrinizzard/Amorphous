@@ -1,0 +1,3 @@
+Press the spacebar to pause the game, and again to resume.  When the 
+--- RECORDSEPARATOR ---
+game is paused, current Bestiary and Award progress will be saved.

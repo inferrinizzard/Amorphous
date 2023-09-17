@@ -1,0 +1,10 @@
+onClipEvent(load){
+   if(_global.RazorGlaiveEquipped)
+   {
+      gotoAndStop(2);
+   }
+   else
+   {
+      gotoAndStop(1);
+   }
+}

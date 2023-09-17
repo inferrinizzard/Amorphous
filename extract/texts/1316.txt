@@ -1,0 +1,3 @@
+The "X" key will quit the current game and return to the 
+--- RECORDSEPARATOR ---
+Main Menu.

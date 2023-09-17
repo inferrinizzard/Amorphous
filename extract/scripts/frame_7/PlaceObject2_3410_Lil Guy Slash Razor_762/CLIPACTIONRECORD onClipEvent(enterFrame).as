@@ -1,0 +1,10 @@
+onClipEvent(enterFrame){
+   if(!_global.pause)
+   {
+      play();
+   }
+   else
+   {
+      stop();
+   }
+}

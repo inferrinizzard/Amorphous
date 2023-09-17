@@ -1,0 +1,7 @@
+The character will continually move toward the curser's 
+--- RECORDSEPARATOR ---
+position.  Guide the character around the screen by moving the 
+--- RECORDSEPARATOR ---
+cursor.  To stop moving, simply move the cursor to the 
+--- RECORDSEPARATOR ---
+character and leave it still.

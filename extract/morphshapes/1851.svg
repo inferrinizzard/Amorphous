@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="10.8px" width="11.45px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -21.0, 3.7)">
+    <path d="M25.25 0.75 Q26.9 0.75 27.1 -0.6 25.75 -0.6 25.25 0.75 M21.0 2.4 Q21.0 4.6 22.55 5.9 24.05 7.1 26.25 7.1 L28.75 6.55 Q30.2 5.8 30.2 4.6 30.2 4.0 29.75 3.6 29.35 3.2 28.75 3.2 L27.75 3.4 26.75 3.6 Q25.4 3.6 25.05 2.6 L30.45 2.6 Q31.35 2.6 31.9 2.1 32.45 1.55 32.45 0.65 32.45 -1.3 30.85 -2.5 29.4 -3.7 27.45 -3.7 24.75 -3.7 22.9 -2.0 21.0 -0.2 21.0 2.4" fill="url(#gradient0)" fill-rule="evenodd" stroke="none">
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M25.25 0.75 Q26.9 0.75 27.1 -0.6 25.75 -0.6 25.25 0.75 M21.0 2.4 Q21.0 4.6 22.55 5.9 24.05 7.1 26.25 7.1 L28.75 6.55 Q30.2 5.8 30.2 4.6 30.2 4.0 29.75 3.6 29.35 3.2 28.75 3.2 L27.75 3.4 26.75 3.6 Q25.4 3.6 25.05 2.6 L30.45 2.6 Q31.35 2.6 31.9 2.1 32.45 1.55 32.45 0.65 32.45 -1.3 30.85 -2.5 29.4 -3.7 27.45 -3.7 24.75 -3.7 22.9 -2.0 21.0 -0.2 21.0 2.4;M25.25 0.75 Q26.9 0.75 27.1 -0.6 25.75 -0.6 25.25 0.75 M21.0 2.4 Q21.0 4.6 22.55 5.9 24.05 7.1 26.25 7.1 L28.75 6.55 Q30.2 5.8 30.2 4.6 30.2 4.0 29.75 3.6 29.35 3.2 28.75 3.2 L27.75 3.4 26.75 3.6 Q25.4 3.6 25.05 2.6 L30.45 2.6 Q31.35 2.6 31.9 2.1 32.45 1.55 32.45 0.65 32.45 -1.3 30.85 -2.5 29.4 -3.7 27.45 -3.7 24.75 -3.7 22.9 -2.0 21.0 -0.2 21.0 2.4"/>
+    </path>
+    <path d="M21.0 2.4 Q21.0 -0.2 22.9 -2.0 24.75 -3.7 27.45 -3.7 29.4 -3.7 30.85 -2.5 32.45 -1.3 32.45 0.65 32.45 1.55 31.9 2.1 31.35 2.6 30.45 2.6 L25.05 2.6 Q25.4 3.6 26.75 3.6 L27.75 3.4 28.75 3.2 Q29.35 3.2 29.75 3.6 30.2 4.0 30.2 4.6 30.2 5.8 28.75 6.55 L26.25 7.1 Q24.05 7.1 22.55 5.9 21.0 4.6 21.0 2.4 M25.25 0.75 Q25.75 -0.6 27.1 -0.6 26.9 0.75 25.25 0.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M21.0 2.4 Q21.0 -0.2 22.9 -2.0 24.75 -3.7 27.45 -3.7 29.4 -3.7 30.85 -2.5 32.45 -1.3 32.45 0.65 32.45 1.55 31.9 2.1 31.35 2.6 30.45 2.6 L25.05 2.6 Q25.4 3.6 26.75 3.6 L27.75 3.4 28.75 3.2 Q29.35 3.2 29.75 3.6 30.2 4.0 30.2 4.6 30.2 5.8 28.75 6.55 L26.25 7.1 Q24.05 7.1 22.55 5.9 21.0 4.6 21.0 2.4 M25.25 0.75 Q25.75 -0.6 27.1 -0.6 26.9 0.75 25.25 0.75;M21.0 2.4 Q21.0 -0.2 22.9 -2.0 24.75 -3.7 27.45 -3.7 29.4 -3.7 30.85 -2.5 32.45 -1.3 32.45 0.65 32.45 1.55 31.9 2.1 31.35 2.6 30.45 2.6 L25.05 2.6 Q25.4 3.6 26.75 3.6 L27.75 3.4 28.75 3.2 Q29.35 3.2 29.75 3.6 30.2 4.0 30.2 4.6 30.2 5.8 28.75 6.55 L26.25 7.1 Q24.05 7.1 22.55 5.9 21.0 4.6 21.0 2.4 M25.25 0.75 Q25.75 -0.6 27.1 -0.6 26.9 0.75 25.25 0.75"/>
+    </path>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0076, 0.0, 0.0, 0.0076, 26.75, 1.7)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <animateTransform additive="replace" attributeName="gradientTransform" dur="2s" from="1" repeatCount="indefinite" to="1" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="26.75 1.7" repeatCount="indefinite" to="26.75 1.7" type="translate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0" repeatCount="indefinite" to="0.0" type="rotate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0076 0.0076" repeatCount="indefinite" to="0.0076 0.0076" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0" repeatCount="indefinite" to="0.0" type="skewX"/>
+      <stop offset="0.0" stop-color="#009900">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#009900;#0a970a"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+      <stop offset="0.5764705882352941" stop-color="#009900">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="0.5764705882352941;0.5764705882352941"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#009900;#52d863"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+      <stop offset="1.0" stop-color="#009900">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#009900;#ffffff"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+    </radialGradient>
+  </defs>
+</svg>

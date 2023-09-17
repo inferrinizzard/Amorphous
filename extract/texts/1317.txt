@@ -1,0 +1,5 @@
+Press "N" at any time to change to a different song.  Pressing 
+--- RECORDSEPARATOR ---
+"M" will display the name of the song currently playing 
+--- RECORDSEPARATOR ---
+without changing it.

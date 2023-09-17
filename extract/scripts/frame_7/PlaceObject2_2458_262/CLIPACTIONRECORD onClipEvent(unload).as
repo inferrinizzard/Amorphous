@@ -1,0 +1,3 @@
+onClipEvent(unload){
+   mySound.stop();
+}

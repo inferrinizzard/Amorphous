@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="12.9px" width="11.4px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -17.15, 7.6)">
+    <path d="M20.75 0.4 Q20.75 1.1 21.2 1.55 21.65 2.0 22.35 2.0 23.15 2.0 23.75 1.4 24.3 0.85 23.85 -1.1 L21.35 -0.95 Q20.75 -0.35 20.75 0.4 M17.15 0.85 Q17.15 2.9 18.6 4.15 19.9 5.3 22.05 5.3 24.5 5.3 26.1 3.85 27.65 2.35 27.9 -0.1 L28.5 -5.7 28.55 -6.15 Q28.55 -7.6 26.9 -7.6 L25.2 -7.6 Q24.45 -7.6 23.9 -7.1 23.3 -6.6 23.3 -5.85 23.3 -5.35 23.7 -4.9 24.1 -4.45 24.6 -4.45 L24.85 -4.45 24.75 -3.4 Q23.9 -4.7 22.15 -4.7 20.0 -4.7 18.55 -2.95 17.15 -1.3 17.15 0.85" fill="url(#gradient0)" fill-rule="evenodd" stroke="none">
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M20.75 0.4 Q20.75 1.1 21.2 1.55 21.65 2.0 22.35 2.0 23.15 2.0 23.75 1.4 24.3 0.85 23.85 -1.1 L21.35 -0.95 Q20.75 -0.35 20.75 0.4 M17.15 0.85 Q17.15 2.9 18.6 4.15 19.9 5.3 22.05 5.3 24.5 5.3 26.1 3.85 27.65 2.35 27.9 -0.1 L28.5 -5.7 28.55 -6.15 Q28.55 -7.6 26.9 -7.6 L25.2 -7.6 Q24.45 -7.6 23.9 -7.1 23.3 -6.6 23.3 -5.85 23.3 -5.35 23.7 -4.9 24.1 -4.45 24.6 -4.45 L24.85 -4.45 24.75 -3.4 Q23.9 -4.7 22.15 -4.7 20.0 -4.7 18.55 -2.95 17.15 -1.3 17.15 0.85;M20.75 0.4 Q20.75 1.1 21.2 1.55 21.65 2.0 22.35 2.0 23.15 2.0 23.75 1.4 24.3 0.85 23.85 -1.1 L21.35 -0.95 Q20.75 -0.35 20.75 0.4 M17.15 0.85 Q17.15 2.9 18.6 4.15 19.9 5.3 22.05 5.3 24.5 5.3 26.1 3.85 27.65 2.35 27.9 -0.1 L28.5 -5.7 28.55 -6.15 Q28.55 -7.6 26.9 -7.6 L25.2 -7.6 Q24.45 -7.6 23.9 -7.1 23.3 -6.6 23.3 -5.85 23.3 -5.35 23.7 -4.9 24.1 -4.45 24.6 -4.45 L24.85 -4.45 24.75 -3.4 Q23.9 -4.7 22.15 -4.7 20.0 -4.7 18.55 -2.95 17.15 -1.3 17.15 0.85"/>
+    </path>
+    <path d="M17.15 0.85 Q17.15 -1.3 18.55 -2.95 20.0 -4.7 22.15 -4.7 23.9 -4.7 24.75 -3.4 L24.85 -4.45 24.6 -4.45 Q24.1 -4.45 23.7 -4.9 23.3 -5.35 23.3 -5.85 23.3 -6.6 23.9 -7.1 24.45 -7.6 25.2 -7.6 L26.9 -7.6 Q28.55 -7.6 28.55 -6.15 L28.5 -5.7 27.9 -0.1 Q27.65 2.35 26.1 3.85 24.5 5.3 22.05 5.3 19.9 5.3 18.6 4.15 17.15 2.9 17.15 0.85 M20.75 0.4 Q20.75 -0.35 21.35 -0.95 L23.85 -1.1 Q24.3 0.85 23.75 1.4 23.15 2.0 22.35 2.0 21.65 2.0 21.2 1.55 20.75 1.1 20.75 0.4" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M17.15 0.85 Q17.15 -1.3 18.55 -2.95 20.0 -4.7 22.15 -4.7 23.9 -4.7 24.75 -3.4 L24.85 -4.45 24.6 -4.45 Q24.1 -4.45 23.7 -4.9 23.3 -5.35 23.3 -5.85 23.3 -6.6 23.9 -7.1 24.45 -7.6 25.2 -7.6 L26.9 -7.6 Q28.55 -7.6 28.55 -6.15 L28.5 -5.7 27.9 -0.1 Q27.65 2.35 26.1 3.85 24.5 5.3 22.05 5.3 19.9 5.3 18.6 4.15 17.15 2.9 17.15 0.85 M20.75 0.4 Q20.75 -0.35 21.35 -0.95 L23.85 -1.1 Q24.3 0.85 23.75 1.4 23.15 2.0 22.35 2.0 21.65 2.0 21.2 1.55 20.75 1.1 20.75 0.4;M17.15 0.85 Q17.15 -1.3 18.55 -2.95 20.0 -4.7 22.15 -4.7 23.9 -4.7 24.75 -3.4 L24.85 -4.45 24.6 -4.45 Q24.1 -4.45 23.7 -4.9 23.3 -5.35 23.3 -5.85 23.3 -6.6 23.9 -7.1 24.45 -7.6 25.2 -7.6 L26.9 -7.6 Q28.55 -7.6 28.55 -6.15 L28.5 -5.7 27.9 -0.1 Q27.65 2.35 26.1 3.85 24.5 5.3 22.05 5.3 19.9 5.3 18.6 4.15 17.15 2.9 17.15 0.85 M20.75 0.4 Q20.75 -0.35 21.35 -0.95 L23.85 -1.1 Q24.3 0.85 23.75 1.4 23.15 2.0 22.35 2.0 21.65 2.0 21.2 1.55 20.75 1.1 20.75 0.4"/>
+    </path>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0099, 0.0, 0.0, 0.0099, 22.85, -1.15)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <animateTransform additive="replace" attributeName="gradientTransform" dur="2s" from="1" repeatCount="indefinite" to="1" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="22.85 -1.15" repeatCount="indefinite" to="22.85 -1.15" type="translate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0" repeatCount="indefinite" to="0.0" type="rotate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0099 0.0099" repeatCount="indefinite" to="0.0099 0.0099" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0" repeatCount="indefinite" to="0.0" type="skewX"/>
+      <stop offset="0.0" stop-color="#009900">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#009900;#0a970a"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+      <stop offset="0.5764705882352941" stop-color="#009900">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="0.5764705882352941;0.5764705882352941"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#009900;#52d863"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+      <stop offset="1.0" stop-color="#009900">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#009900;#ffffff"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+    </radialGradient>
+  </defs>
+</svg>
